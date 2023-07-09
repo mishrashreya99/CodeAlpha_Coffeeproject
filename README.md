@@ -1,2 +1,2 @@
 # CodeAlpha_Coffeeproject
-Coffeeshop Project
+Hey! I want to share my new project that is Coffeeshop Project
